@@ -1,5 +1,5 @@
 **Overview:**
-This is a simple online banking system where users can hold different types of accounts as offered by the bank. The customers can perform operations according to the account type; e.g. deposit, withdraw, balance enquiry and transferring funds. The banking system manages the accounts by debiting the fees or crediting the profits. Both the administrator and the customer can print report on current account details.
+This is a simple banking system where users can hold different types of accounts as offered by the bank. The customers can perform operations according to the account type; e.g. deposit, withdraw, balance enquiry and transferring funds. The banking system manages the accounts by debiting the fees or crediting the profits. Both the administrator and the customer can print report on current account details.
 
 **Course Information:**
 This project was developed as part of the Object Oriented Programming (CS-116) at Ned University of Engineering and Technology. The course was completed during the Spring Semester First Year.
@@ -42,4 +42,4 @@ This project was developed as a team effort. Collaboration included sharing resp
 
 **Conclusion:**
 
-This project, my second-ever Python project, was a valuable learning experience in practicing Object-Oriented Programming concepts in a team setting. By using Python's file processing capabilities, we were able to create a functional banking application without relying on a database system. The project reinforced our understanding of OOP, teamwork, and provided insights into managing data securely in a file-based system.
+This project, our second-ever Python project, was a valuable learning experience in practicing Object-Oriented Programming concepts in a team setting. By using Python's file processing capabilities, we were able to create a functional banking application without relying on a database system. The project reinforced our understanding of OOP, teamwork, and provided insights into managing data securely in a file-based system.
